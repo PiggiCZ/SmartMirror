@@ -1,5 +1,9 @@
 # SmartMirror
-Chytré zrcadlo, ročníkový projekt
+Chytré zrcadlo, ročníkový projekt:
+
+- Cílem mého snažení je zrcadlo, které bude umět příjmat hlasovou komunikaci a zároveň odpovídat na zadané dotazy jako např. počasí z webu, nejbližší autobusové spojení z místa které určím a pokud výjde čas, chtěl bych zkusit i předčítání zpráv z mobilu.
+
+
 
 Použité odkazy:
 
