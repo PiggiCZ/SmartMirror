@@ -12,3 +12,10 @@ Použité odkazy:
 
 https://www.youtube.com/watch?v=aa3VVZA0e5Y
 https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/rpi_SCH_4b_4p0_reduced.pdf
+
+Hardware k vytvoření projektu:
+
+https://bit.ly/2mhg3hM
+https://rpishop.cz/raspberry-pi-4b/1600-RPI401.html
+https://cz.gearbest.com/chargers-cables/pp_946407.html?wid=1433363
+https://cz.gearbest.com/chargers-cables/pp_1816455.html?wid=1433363
