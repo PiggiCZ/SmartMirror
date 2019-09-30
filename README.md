@@ -6,7 +6,9 @@ Chytré zrcadlo, ročníkový projekt:
 Postup práce:
 
 1. Naučit se s Kicad programem ve kterém budu kreslit veškeré elektronické schéma k mému projektu.
-2. Sestrojení 
+2. Sestrojení elektro. schématu
+3. Zprovoznění Raspbianu na RaspberyPi 4 MODEL B skrze aplikaci NOOBS
+4. 
 
 Použité odkazy:
 
