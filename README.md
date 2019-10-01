@@ -18,9 +18,6 @@ https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/rpi_SC
 Hardware k vytvoření projektu:
 
 https://rpishop.cz/raspberry-pi-4b/1600-RPI401.html
-
 https://cz.gearbest.com/chargers-cables/pp_946407.html?wid=1433363
-
 https://cz.gearbest.com/chargers-cables/pp_1816455.html?wid=1433363
-
 https://bit.ly/2mhg3hM
