@@ -9,7 +9,7 @@ Postup práce:
 2. Sestrojení elektro. schématu
 3. Zprovoznění Raspbianu na RaspberyPi 4 MODEL B(1GB ram) skrze aplikaci NOOBS
 
-    -Stažení aplikace NOOBS ze stránky https://www.raspberrypi.org/downloads/noobs/
+    - Stažení aplikace NOOBS ze stránky https://www.raspberrypi.org/downloads/noobs/
 4. 
 
 Použité odkazy:
