@@ -24,3 +24,4 @@ https://rpishop.cz/raspberry-pi-4b/1600-RPI401.html
 https://cz.gearbest.com/chargers-cables/pp_946407.html?wid=1433363
 https://cz.gearbest.com/chargers-cables/pp_1816455.html?wid=1433363
 https://bit.ly/2mhg3hM
+https://youness.net/raspberry-pi/how-to-connect-bluetooth-headset-or-speaker-to-raspberry-pi-3
