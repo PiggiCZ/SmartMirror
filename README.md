@@ -25,3 +25,11 @@ https://cz.gearbest.com/chargers-cables/pp_946407.html?wid=1433363
 https://cz.gearbest.com/chargers-cables/pp_1816455.html?wid=1433363
 https://bit.ly/2mhg3hM
 https://youness.net/raspberry-pi/how-to-connect-bluetooth-headset-or-speaker-to-raspberry-pi-3
+
+
+Příkazy:
+export http_proxy=username:password@proxyhost.com:8080
+export https_proxy=username:password@proxyhost.com:8081
+exprot no_proxy=localhost, 127.0.0.1, *.my.lan
+npm config set proxy http://<username>:<password>@<proxy-server-url>:<port>
+npm config set https-proxy http://<username>:<password>@<proxy-server-url>:<port>
